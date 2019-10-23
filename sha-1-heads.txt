@@ -1,0 +1,23 @@
+$ git show-ref
+4b7a355fe975245fc62d16cb9a3dccdd63aae498 refs/heads/Bash
+13baf150d781b7dca3763961cd595718b13b5fbf refs/heads/C
+ce8fa3fe8b1b4ce7e4072b0c4860e90940c0c7df refs/heads/C++
+151c49abaf49e781c5ac3c653233e805acb2619b refs/heads/CS
+0c774105173d0ebe64ba2e5848796434b09ce028 refs/heads/HTML
+b975510442fe37e4134a0a80640004fda3c62b9b refs/heads/JS
+65a3b960fc1febb67f5439cd479e8eb4f98c07d2 refs/heads/Java
+08ac5dbec13608e35f48ab937e03b98a588333e0 refs/heads/LOGO
+0f4305ba3a93f81eb3291b7fa09583404d4b59a2 refs/heads/PHP
+0877abcd99b8850d38d8451a05b2aebec5f5767f refs/heads/Pascal
+9188836ccf9f1ca221d6f5accf5c07c3f4d0995b refs/heads/master
+4b7a355fe975245fc62d16cb9a3dccdd63aae498 refs/remotes/origin/Bash
+13baf150d781b7dca3763961cd595718b13b5fbf refs/remotes/origin/C
+ce8fa3fe8b1b4ce7e4072b0c4860e90940c0c7df refs/remotes/origin/C++
+151c49abaf49e781c5ac3c653233e805acb2619b refs/remotes/origin/CS
+0c774105173d0ebe64ba2e5848796434b09ce028 refs/remotes/origin/HTML
+b975510442fe37e4134a0a80640004fda3c62b9b refs/remotes/origin/JS
+65a3b960fc1febb67f5439cd479e8eb4f98c07d2 refs/remotes/origin/Java
+08ac5dbec13608e35f48ab937e03b98a588333e0 refs/remotes/origin/LOGO
+0f4305ba3a93f81eb3291b7fa09583404d4b59a2 refs/remotes/origin/PHP
+0877abcd99b8850d38d8451a05b2aebec5f5767f refs/remotes/origin/Pascal
+9a12072b867f149cd1abe51f5f2fee9c357c17c7 refs/remotes/origin/master
